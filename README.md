@@ -25,11 +25,10 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/FRDM_K64F-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>&nbsp 
-</p>
+</p> 
 
-</br> 
+<br>
 
-<br> 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broiron&show_icons=true&theme=radical) 
 
 <br> 
