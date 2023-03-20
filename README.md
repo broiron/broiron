@@ -4,6 +4,17 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Broiron's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
+  #### Hi. I'm Hyeongcheol Park from South Korea
+  
+  🏫 Studying in Sangmyung University, Dept of Electronics Engineering. <br>
+  🔬 Reseacrh area: <Strong>AI</Strong>, <Strong>Computer Vision</Strong> <br>
+  🧐 Doing research and related work in Creative Content Lab. <br>
+
+  
+  <Strong>📧Email📧</Strong><br>cchptr204@gmail.com<br>
+
+  
+  
 <br>
 
 <h3 align="center">🛠 Skills 🛠</h3>
@@ -12,7 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
+ &nbsp 
   <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
