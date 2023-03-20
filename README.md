@@ -27,7 +27,18 @@
   <img src="https://img.shields.io/badge/FRDM_K64F-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>&nbsp 
 </p>
 
+</br> 
+
 <br> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broiron0218&show_icons=true&theme=radical) 
+
+<br> 
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broiron0218&layout=compact&theme=radical)](https://github.com/woosook0127/github-readme-stats)
+-->
+
+
 
   
 </div>  
