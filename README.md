@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Broiron's%20GitHub%20&height=150&fontSize=60&desc=Welcome:)&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Broiron's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
 <!--
 **broiron/broiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
