@@ -30,12 +30,12 @@
 </br> 
 
 <br> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broiron0218&show_icons=true&theme=radical) 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broiron&show_icons=true&theme=radical) 
 
 <br> 
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broiron0218&layout=compact&theme=radical)](https://github.com/woosook0127/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broiron&layout=compact&theme=radical)](https://github.com/broiron/github-readme-stats)
 -->
 
 
