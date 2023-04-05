@@ -36,6 +36,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/FRDM_K64F-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp
+  <br>
+
 </p> 
 
 <br>
