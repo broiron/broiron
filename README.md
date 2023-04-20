@@ -4,8 +4,7 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Broiron's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbroiron&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
   #### Hi. I'm Hyeongcheol Park from South Korea
   
   🏫 Studying in Sangmyung University, Dept of Electronics Engineering. <br>
