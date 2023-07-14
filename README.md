@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flas-square&logo=TensorFlow&logoColor=white">&nbsp
  &nbsp 
   <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -45,13 +46,13 @@
   <br>
 
 </p> 
-
+<!--
 <br>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broiron&show_icons=true&theme=radical) 
 
 <br> 
-
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broiron&layout=compact&theme=radical)](https://github.com/broiron/github-readme-stats)
 -->
