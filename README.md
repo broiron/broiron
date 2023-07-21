@@ -9,8 +9,7 @@
   
   🏫 Studying in Sangmyung University, Dept of Electronics Engineering. <br>
   🔬 Reseacrh area: <Strong>AI</Strong>, <Strong>Computer Vision</Strong> <br>
-  🧐 Doing research and related work in Creative Content Lab. <br>
-
+  🏫 Doing Intership in Computer Vision Lab, Korea University.
   
   <Strong>📧Email📧</Strong><br>cchptr204@gmail.com<br>
 
