@@ -10,7 +10,7 @@
   🔬 Reseacrh area: <Strong>AI</Strong>, <Strong>Computer Vision</Strong> <br>
   🏫 Doing Intership in Computer Vision Lab, Korea University.
   
-  <Strong>📧Email📧</Strong><br>cchptr204@gmail.com<br>
+  <Strong>📧Email📧</Strong><br>broiron.korea.ac.kr<br>
 
   
   
