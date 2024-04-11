@@ -8,7 +8,7 @@
   #### Hi. I'm Hyeongcheol Park from South Korea
   
   🔬 Reseacrh area: <Strong>AI</Strong>, <Strong>Computer Vision</Strong> <br>
-  🏫 Doing Intership in Computer Vision Lab, Korea University.
+  🏫 Doing Research in Computer Vision Lab, Korea University.
   
   <Strong>📧Email📧</Strong><br>broiron@korea.ac.kr<br>
 
